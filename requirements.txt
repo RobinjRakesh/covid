@@ -3,3 +3,4 @@ numpy
 tensorflow
 cv2
 matplotlib
+os
