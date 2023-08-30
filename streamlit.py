@@ -3,6 +3,7 @@ import tensorflow as tf
 import numpy as np
 from PIL import Image
 import cv2
+import os.path
 
 # Move this line inside the if block to avoid loading the model when not needed
 # model_path = 'model.h5'
